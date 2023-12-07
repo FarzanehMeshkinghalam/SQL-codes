@@ -1,2 +1,4 @@
 # SQL-codes
 Clothing Strore SQL incudes 7 different codes that collectively contribute to effective data management, inventory control, and business intelligence, making them essential tools for optimizing operations and decision-making in a clothing store environment.
+
+Video Games SQL includes 5 different codes. The collective set of SQL queries reveals several key business insights for the project, leveraging a Data Warehouse and drawing from a comprehensive video game dataset. These insights span different aspects of the video game industry, including event performance analysis, gaming club and player metrics, online merchandise sales optimization, refund analysis, and stadium and referee performance. the project demonstrates the power of data-driven insights in optimizing operations, maximizing revenue, and enhancing overall business performance in the context of events, gaming, merchandise sales, and management.
